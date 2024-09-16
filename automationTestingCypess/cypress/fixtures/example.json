@@ -1,0 +1,19 @@
+{
+  "gamifiedEventsURL": "https://grad23-53fa2.web.app/Homepage",
+  "postTitle": "Cypress Automated Post Title",
+  "postDescription": "Cypress Automated Post Description",
+  "BlogsURL": "https://grad23-53fa2.web.app/Home",
+  "createPostURL": "https://grad23-53fa2.web.app/createpost",
+  "loginURL": "https://grad23-53fa2.web.app/login",
+  "validEmail": "mahmoudlotfy946@gmail.com",
+  "pw": "mahmoudlotfy",
+  "invalidPw": "mahmoudlotfy1",
+  "invalidEmail": "mahmoudlotfy9466@gmail.com",
+  "typeHi": "hi chatbot can you help me",
+  "leanEvent": "i want to know the details about lean event",
+  "espaceEvent": "i want to know the details about espace event",
+  "nextEvent": "i want to ask about the next event",
+  "organizeEvent": "i want to organize event",
+  "issue": "i have an issue in my account"
+
+}
